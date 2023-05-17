@@ -6,7 +6,6 @@ Data: https://www.kaggle.com/sakshigoyal7/credit-card-customers
 
 Blog: https://mfiyjuz.medium.com/bank-customer-retention-c6a89058d358
 
-Github: https://github.com/roycechun/bank-customer-retention
 """
 
 import numpy as np
