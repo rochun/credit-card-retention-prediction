@@ -1,4 +1,4 @@
-# Predicting Credit Card Retention
+# Predicting Credit Card Consumer Retention
 
 This project is a machine learning algorithm that is designed to consolidate feature variables containing credit limit, utilization ratio, and total transaction counts data and output various machine learning models that can predict credit card consumer attrition. Data was split between training and testing sets in order to train and test the models. The different machine learning models include: logistic regression, bagging, random forest, ada boosting, gradient boosting, and voting classifiers.
 
